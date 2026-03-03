@@ -1,7 +1,6 @@
 .idea/
 obj/
 .depend/
-bin/
 cmake-build-debug/
 full_log.txt
 net/Sydney*
